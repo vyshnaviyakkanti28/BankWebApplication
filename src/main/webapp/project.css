@@ -1,0 +1,28 @@
+body{
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(179,32,126,0.6365896700477065) 35%, rgba(0,212,255,1) 100%);    
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+.container{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20px;
+    padding: 8px 0;
+    margin: 8px 0;
+    border-bottom: 1px solid #4caf50;
+  }
+  .login-box{
+    width: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    height:100px;
+  }
+  
+  
+
+  
